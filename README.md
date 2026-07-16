@@ -66,3 +66,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📄 License
 This project is open-source.
+
+## ✨ Contributors
+- [Pm-vk](https://github.com/Pm-vk)
+- [shrish98](https://github.com/shrish98)
